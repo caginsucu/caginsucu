@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağın Sucu</h1>
 <h3 align="center">I am self-taught (still learning) frontend developer</h3>
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript**
+- 🌱 I’m currently learning **Html, CSS, JavaScript, ReactJS, NextJS, Svelte**
 
 - 📫 How to reach me **ahmetcaginsucu@gmail.com**
 
