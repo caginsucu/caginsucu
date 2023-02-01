@@ -1,4 +1,3 @@
-### Hi 👋, I'm Çağın Sucu
 
 #### I'm a Frontend Developer working in İzmir, Turkey.
 
