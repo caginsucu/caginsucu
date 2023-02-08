@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **For Yazılım ve Reklam**
+- 🏢 I'm currently working at **Overcodex**
 
 - ⚙️ I use daily:  `.html`, `.css`, `.js`, `.jsx`, `.svelte`, `.tsx`
 
