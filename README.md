@@ -1,5 +1,5 @@
 
-#### I'm a Frontend Developer working in İzmir, Turkey.
+#### I'm a Frontend Developer working in Istanbul, Turkey.
 
 <p align="left">
 <a href="https://twitter.com/caginsucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caginsucu" height="20" width="30" /></a>
@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Overcodex**
+- 🏢 I'm currently working at **Emlaksepette**
 
 - ⚙️ I use daily:  `.html`, `.css`, `.js`, `.jsx`, `.svelte`, `.tsx`
 
